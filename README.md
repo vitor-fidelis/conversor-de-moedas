@@ -1,5 +1,5 @@
 # Conversor de Moedas
-![badge conclusao](images/exemplo.png)
+![badge conclusao](Badge-Conversor.png)
 
 
 Este é um projeto de um Conversor de Moedas desenvolvido em Java como parte do desafio proposto pela ONE (Oracle Next Education) na formação de Java para backend developer. O aplicativo permite converter entre diferentes moedas com taxas de câmbio em tempo real obtidas de uma API externa.
